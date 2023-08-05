@@ -9,7 +9,7 @@ Simple code for Telegram bot which gives you ability to control your PC via phon
 5. Open terminal, write `pip install -r requirements.txt` and hit enter.
 6. Open file bot.pyw in text editor and change the following data with the data, obtained by Telegram
 ![strings to be changed](https://iili.io/HtCi66F.png)<br />
-It should look like this (SAMPLE):
+It should look like this (SAMPLE):<br />
 ![Result Sample](https://iili.io/HtCiHkx.png)
 7. Save changes.
 8. Launch bot.pyw and send your first command to bot.
